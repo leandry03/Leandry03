@@ -74,8 +74,7 @@
 
 ---
 
-### 
-<p align="left"> <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified" /> <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" /> <img src="https://img.shields.io/badge/Google-Cloud%20Associate-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Associate" /> <img src="https://img.shields.io/badge/Cisco-CCNA-red?logo=cisco&logoColor=white" alt="Cisco CCNA" /> </p>
+
 
 ### 🌍 Connect with Me
 <p align="center">
