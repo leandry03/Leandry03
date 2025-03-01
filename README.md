@@ -51,7 +51,7 @@
 <p align="left">
 <a href="http://linkedin.com/in/francisco-miguel-berroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1HXrY1auV9/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.instagram.com/leandry_berroa?igsh=MTUyMjNsd2EycTY4Yg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://iconos8.es/icon/119026/instagram-new" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/leandry_berroa?igsh=MTUyMjNsd2EycTY4Yg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
