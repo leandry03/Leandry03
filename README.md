@@ -32,13 +32,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **INTRANT**
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **JavaScript, TypeScript, Angular, PHP and NodeJS,**
 
 - 📫 How to reach me **leandry368@gmail.com**
 
