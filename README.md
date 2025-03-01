@@ -74,6 +74,9 @@
 
 ---
 
+### 
+<p align="left"> <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified" /> <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" /> <img src="https://img.shields.io/badge/Google-Cloud%20Associate-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Associate" /> <img src="https://img.shields.io/badge/Cisco-CCNA-red?logo=cisco&logoColor=white" alt="Cisco CCNA" /> </p>
+
 ### 🌍 Connect with Me
 <p align="center">
 <a href="http://linkedin.com/in/francisco-miguel-berroa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
