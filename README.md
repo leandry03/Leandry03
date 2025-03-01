@@ -116,8 +116,7 @@
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandry03&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
-
+![GitHub Stats](https://streak-stats.demolab.com?user=Leandry03&theme=dark&hide_border=true)
 </div>
 
 <br><br>
