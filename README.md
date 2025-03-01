@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer from Dominican Republic</h3>
 <p align="center">Technology has transformed the world in ways that once seemed impossible, and witnessing this evolution inspired me to dive into the world of software engineering from a young age. My passion for computing 💻 and innovation has grown steadily, driving me to explore new technologies and tools 🌐 to create impactful solutions and innovative projects. I love diving into new tech stacks and using them to build amazing things that make a difference 🚀."</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Leandry" /> 
+ <img src="" alt="Leandry" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
@@ -39,8 +39,6 @@
 - 💬 Ask me about **JavaScript, TypeScript, Angular, PHP and NodeJS,**
 
 - 📫 How to reach me **leandry368@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **I think I'm Francisco M. Berroa**
 
