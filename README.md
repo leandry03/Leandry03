@@ -13,9 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<div align="center">
-  <h3 align="left">Languages and Tools:</h3>
-
+<div align="left">
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
