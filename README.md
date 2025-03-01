@@ -131,12 +131,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people from different backgrounds and cultures,</b> as I believe every interaction is an opportunity to learn and grow. If you’d like to chat, collaborate on a project, or just say hello, I’d be thrilled to get to know you better and exchange ideas. <b>Feel free to reach out—I’d love to connect! 😊</em>
 
