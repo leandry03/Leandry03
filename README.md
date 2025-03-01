@@ -90,3 +90,15 @@
 
 ### 🤝 Let's Connect!
 If you’d like to chat, collaborate on a project, or just say hello, feel free to reach out! 😊
+
+const connectWithMe = () => {
+  console.log("🎉 Let's build something amazing together!");
+  console.log("📩 Reach me at: leandry368@gmail.com");
+  console.log("🚀 Let's collaborate on innovative projects!");
+};
+
+setInterval(() => {
+  console.log("%c🤝 Let's Connect!", "color: cyan; font-size: 20px;");
+  connectWithMe();
+}, 5000);
+<p align="center"> <a href="http://linkedin.com/in/francisco-miguel-berroa" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/leandry_berroa" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.youtube.com/@leandrybelen2541" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <a href="mailto:leandry368@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
