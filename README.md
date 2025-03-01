@@ -90,11 +90,3 @@
 
 ### 🤝 Let's Connect!
 If you’d like to chat, collaborate on a project, or just say hello, feel free to reach out! 😊
-
-<form action="https://formspree.io/f/tu_endpoint" method="POST">
-    <textarea name="message" placeholder="Envíame un mensaje..." required style="width: 100%; height: 100px; padding: 10px; font-size: 16px; border-radius: 8px; border: 1px solid #ccc;"></textarea>
-    <button type="submit" style="background-color: #0e75b6; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-top: 10px;">
-        Enviar
-    </button>
-</form>
-
