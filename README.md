@@ -138,6 +138,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people from different backgrounds and cultures,</b> as I believe every interaction is an opportunity to learn and grow. If you’d like to chat, collaborate on a project, or just say hello, I’d be thrilled to get to know you better and exchange ideas. <b>Feel free to reach out—I’d love to connect! 😊</em>
 
 <br>
